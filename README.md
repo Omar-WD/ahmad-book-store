@@ -79,27 +79,26 @@ How to use:
 
 ## Screenshots
 
-Below are sample screenshots (placeholder images included in `public/screenshots`). Add real screenshots by replacing the files or pointing to your images.
 
 Home Screen
 
-![Home](/screenshots/1.jpeg)
+![Home](/public/screenshots/1.jpeg)
 
 About
 
-![About](/screenshots/2.jpeg)
+![About](/public/screenshots/2.jpeg)
 
 Books Grid
 
-![Books Grid](/screenshots/3.jpeg)
+![Books Grid](/public/screenshots/3.jpeg)
 
 Contact
 
-![Contact](/screenshots/4.jpeg)
+![Contact](/public/screenshots/4.jpeg)
 
 Shopping Cart
 
-![Shopping Cart](/screenshots/5.jpeg)
+![Shopping Cart](/public/screenshots/5.jpeg)
 
 ---
 
