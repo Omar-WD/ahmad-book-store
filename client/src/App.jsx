@@ -7,6 +7,8 @@ import Books from './components/Books'
 import Home from './components/Home';
 import Footer from './components/Footer';
 import ShoppingCart from './components/ShoppingCart';
+import Signin from './components/Signin';
+import Admin from './components/Admin';
 
 
 
@@ -23,6 +25,8 @@ function App() {
           <Route path='/contact' element={<Contact/>}/>
           <Route path='/books/:category?' element={<Books/>}/>
           <Route path='/shopping-cart' element={<ShoppingCart/>}/>
+          <Route path='/signin' element={<Signin/>}/>
+          <Route path='/admin' element={<Admin/>}/>
         </Routes>
         <Footer/>
 
