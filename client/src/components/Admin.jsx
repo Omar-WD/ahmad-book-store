@@ -133,7 +133,7 @@ export default function Admin() {
       alert('Error saving book: ' + error.message);
     } finally {
       setLoading(false);
-    }
+    } 
   };
 
   const handleBookChange = (e) => {
